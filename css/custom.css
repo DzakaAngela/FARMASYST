@@ -161,16 +161,14 @@
 }
 .nelly{
     background-color: green;
-    width: 900px;
-    height: 450;
-    margin-left: 50px;
-    margin-right: 50px;
+    width: 100%;
+    height: 300px;
     border-top: 3px solid yellow;
     margin-top: 30px;
     padding-top: 50px;
-    background-size: cover;
-    padding-right: 1px; 
+    background-size: cover; 
     color: white;
+    padding-left: 50px;
     
 }
 .nelly p{
@@ -179,6 +177,6 @@
 }
 #me{
     margin-top: 50px; 
-    padding: 20px;
+    padding: 0px;
     margin: 0px
 }
